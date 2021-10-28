@@ -54,8 +54,10 @@ Frameworks are basically over-engineered libraries which take more control over 
 - [Alternative Full React Tutorial Playlist - Dev Ed](https://www.youtube.com/watch?v=dGcsHMXbSOA&list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE)
 - * The last course also have a paid version available that i have taken 1.5 years ago. However, they don't apply regional pricing to Turkey. So for the interested ones, i would recommend finding a different course.
 
-## If you have come this far, share what you have done with us!!! You can get in contact any time, or open up a PR to this repository.
+## 🎉 If you have come this far, share what you have done with us!!! You can get in contact any time, or open up a PR to this repository.
 
 IEEE Yasar University Student Branch Computer Society
+
 Çetin Kaan Taşkıngenç: @ctnkaan
+
 Mustafa Çığ Gökpınar: @mcig
