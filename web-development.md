@@ -14,9 +14,9 @@
 
 [3 - Responsive Frontend Development (Bootstrap 5)](#3---Responsive-Frontend-Development)
 
-[4 - Backend - Optional (React.js)](#4---Back-end-Development-with-Node.js)
+[4 - Backend - Node.js](#4---Back-end-Development-with-Node.js)
 
-[5 - Frameworks - Optional (React.js)](#5---Frameworks---Optional)
+[5 - Frameworks (React.js)](#5---Frameworks---React)
 
 
 ## 1 - The Basics
@@ -71,11 +71,13 @@ You've come a long way. After exploring and developing your skills on front-end 
 - [Node.js](https://nodejs.org/en/)
 - [Programming with Mosh - Node.js](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 - [freeCodeCamp - 8 hours Node.js & Express](https://www.youtube.com/watch?v=Oe421EPjeBE)
+- [Introduction to API's](https://www.youtube.com/watch?v=GZvSYJDk-us)
 
 # PROJECT 4
+Lets gooo! You've really learned a lot during this journey. Now you will develop a weather report application. You're going to use [OpenWeatherMapAPI](https://openweathermap.org/api) which is a free API to get weather information of any country. We want you to develop a web application that fetches data of a inputed city and displays the weather information at the website. Here is how it might look like.
+![Image](https://res.cloudinary.com/practicaldev/image/fetch/s--dSTsIwRh--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/szfxwsiolnt9w7gdbxek.png)
 
-
-## 5 - Frameworks - Optional
+## 5 - Frameworks - React
 
 After this much effort and practice, you might want to continue with more complex technologies which is currently used in FANG companies 😱. This part is optional and advised to developers who really want to choose web development as a career.
 
@@ -87,6 +89,18 @@ Frameworks are basically over-engineered libraries which take more control over 
 - * The last course also have a paid version available that i have taken 1.5 years ago. However, they don't apply regional pricing to Turkey. So for the interested ones, i would recommend finding a different course.
 
 # PROJECT 5
+Now you've seen how React can help us build massive web applications, we're going to build a ToDO app with React. We're going to use components as much as possible for this project. Here is how it might look like
+![Image](https://miro.medium.com/max/873/1*hPjPhc2gYkTplzF_DH-g5Q.png)
+
+
+## 6 - Database - MySQL or MongoDB
+Ok we're in the end game now. We've seen many frontend and backend technologies. Now we're going to see how we can store our data using a databse. There are two options, an non-relational database called MongoDB (Recommended) or a relational database called MySQL.
+
+# PROJECT 6
+
+- [MongoDB in 100 secs](https://www.youtube.com/watch?v=-bt_y4Loofg)
+- [MongoDB in 30 mins](https://www.youtube.com/watch?v=pWbMrx5rVBE)
+- [MySQL in 3 hours](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
 ## 🎉 If you have come this far, share what you have done with us!!! You can get in contact any time, or open up a PR to this repository.
 
