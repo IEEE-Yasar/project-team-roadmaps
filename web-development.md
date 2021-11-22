@@ -96,11 +96,12 @@ Now you've seen how React can help us build massive web applications, we're goin
 ## 6 - Database - MySQL or MongoDB
 Ok we're in the end game now. We've seen many frontend and backend technologies. Now we're going to see how we can store our data using a databse. There are two options, an non-relational database called MongoDB (Recommended) or a relational database called MySQL.
 
-# PROJECT 6
-
 - [MongoDB in 100 secs](https://www.youtube.com/watch?v=-bt_y4Loofg)
 - [MongoDB in 30 mins](https://www.youtube.com/watch?v=pWbMrx5rVBE)
 - [MySQL in 3 hours](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+
+# PROJECT 6 ToDo Database
+Now we have learned about databases. Our final project will be adding a database to our ToDo app.
 
 ## 🎉 If you have come this far, share what you have done with us!!! You can get in contact any time, or open up a PR to this repository.
 
