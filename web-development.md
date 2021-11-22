@@ -43,7 +43,15 @@ We have developed a website with functionalities 🖥️. However our website is
 - [Bootstrap 5 Responsive Website Tutorial - Raddy The Brand](https://youtu.be/eow125xV5-c)
 - [Official Bootstrap 5 Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-## 4 - Frameworks - Optional
+## 4 - Back-end Development with Node.js
+
+You've come a long way. After exploring and developing your skills on front-end development, It's time to get into back-end development. We will use Node.js, It's basically Javascript that works on servers. First thing you need to do is downloading Node.js. Check out these free awesome tutorials about Node.js.
+
+- [Node.js](https://nodejs.org/en/)
+- [Programming with Mosh - Node.js](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+- [freeCodeCamp - 8 hours Node.js & Express](https://www.youtube.com/watch?v=Oe421EPjeBE)
+
+## 5 - Frameworks - Optional
 
 After this much effort and practice, you might want to continue with more complex technologies which is currently used in FANG companies 😱. This part is optional and advised to developers who really want to choose web development as a career.
 
