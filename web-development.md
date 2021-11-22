@@ -61,8 +61,10 @@ We have developed a website with functionalities 🖥️. However our website is
 - [Official Bootstrap 5 Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 # PROJECT 3
+You're doing great! Now you're going to make your website shine 🌟! We've seen how we can use Bootstrap to make our life much easier. Lets make our portfolio website look amazing and mobile responsive. Your portfolio website should be unique and be mobile responsive. Here is an example.
+![image](https://ithanif.com/wp-content/uploads/2021/05/personalportfolio-free-template.jpg)
 
-## 4 - Back-end Development with Node.js
+## 4 - Backend Development with Node.js
 
 You've come a long way. After exploring and developing your skills on front-end development, It's time to get into back-end development. We will use Node.js, It's basically Javascript that works on servers. First thing you need to do is downloading Node.js. Check out these free awesome tutorials about Node.js.
 
