@@ -14,7 +14,9 @@
 
 [3 - Responsive Frontend Development (Bootstrap 5)](#3---Responsive-Frontend-Development)
 
-[4 - Frameworks - Optional (React.js)](#4---Frameworks---Optional)
+[4 - Backend - Optional (React.js)](#4---Back-end-Development-with-Node.js)
+
+[5 - Frameworks - Optional (React.js)](#5---Frameworks---Optional)
 
 
 ## 1 - The Basics
@@ -26,6 +28,16 @@ In this phase, we are expecting you to get familiar with simple HTML and CSS. Fo
 - [CSS3 Basics - Web Dev Simplified](https://youtu.be/1PnVor36_40)
 - [1 Hour Long Tutorial Which Contains All The Topics - Programming With Mosh](https://youtu.be/qz0aGYrrlhU) 
 
+# PROJECT 1 - Your First Website
+
+In this project you're going to develop your first website. How exciting! We're going to use HTML and CSS to make a basic portfolio site. This website is going to be like your CV. It's going to include your name, surname, photo, about section, skills section, education section and hobbies section. You can feel free to add extra things or make your website your own. Here is an basic example... https://www.cs.dartmouth.edu/~thc/ <br>
+Put a link or your project and make a pull request to web-projects folder.
+
+![image](https://user-images.githubusercontent.com/59853931/142842522-9aaa8698-2ddd-49f1-964a-1bab99c00189.png)
+
+
+
+
 ## 2 - Giving Life To The Website
 
 If you followed the previous tutorials, you have already created your own website hooray 🎉. Now it is time to give life to your website, Javascript!.
@@ -36,12 +48,16 @@ If you followed the previous tutorials, you have already created your own websit
 - [Playlist Which Includes Every Concept In More Detail - The Coding Train](https://www.youtube.com/watch?v=q8SHaDQdul0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr) *
 - * Even though this playlist is one of my favorites, it is based on a visual library called p5.js which is great for educational purposes but not commonly used. If you don't want to get into that, you can just skip this playlist.
 
+# PROJECT 2
+
 ## 3 - Responsive Frontend Development
 
 We have developed a website with functionalities 🖥️. However our website is not "responsive". In simple words, responsiveness is the act of developing websites in such a way that they are usable and look pretty in every screen-size. Making mobile-friendly websites is one of the most important topics of our nowaday web experience.
 
 - [Bootstrap 5 Responsive Website Tutorial - Raddy The Brand](https://youtu.be/eow125xV5-c)
 - [Official Bootstrap 5 Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+# PROJECT 3
 
 ## 4 - Back-end Development with Node.js
 
@@ -50,6 +66,9 @@ You've come a long way. After exploring and developing your skills on front-end 
 - [Node.js](https://nodejs.org/en/)
 - [Programming with Mosh - Node.js](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 - [freeCodeCamp - 8 hours Node.js & Express](https://www.youtube.com/watch?v=Oe421EPjeBE)
+
+# PROJECT 4
+
 
 ## 5 - Frameworks - Optional
 
@@ -61,6 +80,8 @@ Frameworks are basically over-engineered libraries which take more control over 
 - [Full React Tutorial Playlist - The Net Ninja](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 - [Alternative Full React Tutorial Playlist - Dev Ed](https://www.youtube.com/watch?v=dGcsHMXbSOA&list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE)
 - * The last course also have a paid version available that i have taken 1.5 years ago. However, they don't apply regional pricing to Turkey. So for the interested ones, i would recommend finding a different course.
+
+# PROJECT 5
 
 ## 🎉 If you have come this far, share what you have done with us!!! You can get in contact any time, or open up a PR to this repository.
 
