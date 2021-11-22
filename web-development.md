@@ -49,6 +49,9 @@ If you followed the previous tutorials, you have already created your own websit
 - * Even though this playlist is one of my favorites, it is based on a visual library called p5.js which is great for educational purposes but not commonly used. If you don't want to get into that, you can just skip this playlist.
 
 # PROJECT 2
+In this Project you're going to develop a Dice rolling game. With each time ou refresh the website you're going to roll a 6 sided dice. The result is going to be shown in the screen with the appropriate image of a dice. Here is an example.
+![image](https://user-images.githubusercontent.com/59853931/142843701-bd93aae1-b4f9-4291-b6bd-36d18d531b84.png)
+
 
 ## 3 - Responsive Frontend Development
 
